@@ -22,8 +22,8 @@ function BlurImage() {
           className="group-hover:opacity-75"
         />
       </div>
-      <h3 className="mt-4 text-sm text-gray-700">Lee Robinson</h3>
-      <p className="mt-1 text-lg font-medium text-gray-900">@leeerob</p>
+      <h3 className="mt-4 text-sm text-gray-700">Name</h3>
+      <p className="mt-1 text-lg font-medium text-gray-900">Registration N.o</p>
     </a>
   );
 }
